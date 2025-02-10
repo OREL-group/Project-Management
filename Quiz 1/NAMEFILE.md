@@ -6,7 +6,7 @@ Shivam Patel
 Srikar Manikonda  
 Madison Van
 
-Jade Carthans
-
+Jade Carthans \
+Taylor Chan
 
 Elisha Longfellow
