@@ -1,5 +1,5 @@
 ## Write your name on its own line:   
-Bradly Alicea    
+Bradly Alicea
 Jaypal Patel    
 Irith Chaturvedi   
 Rachel Li    
@@ -12,7 +12,9 @@ Natasha Nangia
 Ashka Rastogi    
 Jinu Jung      
 Ulysses Martinez Fermin     
-Xinxuan Shen    
+Xinxuan Shen
 Ulysses Martinez Fermin    
 Alex Soja    
 Sammie Brish
+
+Carter Kim
