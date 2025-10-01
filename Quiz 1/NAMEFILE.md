@@ -17,5 +17,5 @@ Gabriel Ruiz
 Sophie Chiewtrakoon       
 JJ Park   
 Connor Slattery
-
+Isaac Chin
 Satyam Malhotra
