@@ -1,1 +1,0 @@
-Jinu Jung
