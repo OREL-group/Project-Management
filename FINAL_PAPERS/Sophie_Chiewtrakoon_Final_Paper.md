@@ -1,3 +1,9 @@
+# Chicago Rental Search
+Sophie Chiewtrakoon
+IS340 
+Fall 2025
+
+---
 ## Background
 
 Transparency has been shown to improve trust, perceived fairness, and understanding between organizations and users. However, real estate markets remain notably opaque. Renters often lack reliable information on historical prices, neighborhood trends, and building conditions. Differences in experience between buyers and sellers, variation in building quality, and non-investment motivations for housing decisions further complicate the market. Although real estate transparency has improved globally through digital platforms and open data initiatives, access to spatially detailed and historically consistent rental price data remains limited  (Cellmer & Trojanek). 
