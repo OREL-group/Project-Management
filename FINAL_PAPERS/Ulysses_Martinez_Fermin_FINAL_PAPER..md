@@ -33,7 +33,7 @@ There is such a thing as biting off more than one can chew in game development. 
 Regarding programming, the best language to use in tandem with Unity would be C#. While C++ is what is used to build the core for the Unity engine, C# allows for an easier time to build script behavior and logic. Integration is as easy as most of the library of assets are already built using C#, but it is also more approachable as it steps away from low-level languages like C++. Unity has a nice feature that allows C# to be converted into optimized C++ code, which is a big plus when trying to build a game for different platforms, such as consoles, personal computers, or even virtual reality. 
 
 #### GAME DEVELOPMENT
-![Indie Game Studio Workflow](IndieWorkflow.jpg)
+![Indie Game Studio Workflow](Ulysses_Martinez_Fermin_images/IndieWorkflow.jpg)
 
 So, what can we do once we have an idea we want to run with? Well, we want to be able to plan a workflow to make sure we can stay on track with what we want to achieve. A workflow is important because it categorizes each stage of development, to let the developers know when they have to meet a deadline, when to call it quits at a certain stage, and when to move on. For video game developers, conceptualization is the first hurdle. This involves developers being visionary on how they want their game to look, which involves concept art, and what the story is going to be, which involves storyboarding and script writing, and how it is going to function, which is where programming comes in. At this stage, the goal should be build a sort of prototype that captures the soul of the game in mind. It might not be great, but it can at least display what the vision was to someone else and let them interact with it. With time, this prototype develops further into a pre-alpha, alpha, and then a beta. Once at the beta stage, the vision has been more refined, and the project has been polished so much so that it should be playable for testers to examine. Game testers are important because they are going to be the first-hand players who will tell you what the game is, how they see it, and if it has any potential. The feedback tells developers if they can run with the idea or if it needs to go back to the drawing board.
 
@@ -44,7 +44,7 @@ Indie games are hard to build as they are laborious. What makes it a daunting ch
 ## EXPECTATIONS
 
 #### GOALS
-![Late Indie Game Studio Workflow](IndieLateWorkflow.jpg)
+![Late Indie Game Studio Workflow](Ulysses_Martinez_Fermin_images/IndieLateWorkflow.jpg)
 
 Now that the budget has been accommodated, developers can complete the game with the intent of selling. This is what can be considered the most difficult part of the game’s journey. The game may be completed, but ensuring its success requires some trust from publishers. Online storefronts, like Steam, are very indie-friendly, as their requirements to sell your game are lax. As long as it doesn’t have malware, hate speech, and abides by its terms and conditions, you can sell your game there. However, other platforms such as the console market (Xbox, Nintendo, and PlayStation) require more confidence.  They have platform-specific rules, such as legal stuff, added costs like licensing and certification, and, of course, technical hurdles as they have different APIs and hardware. Even if it is a nuisance to get games on a console, having it available on more platforms only makes the game more accessible to people who don’t have PCs, since consoles are what most people use for gaming.
 
