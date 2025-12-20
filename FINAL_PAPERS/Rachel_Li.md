@@ -45,7 +45,7 @@ For this prototype, usability metrics like how quickly users could find relevant
 ## Workflow
 The diagram below illustrates the technical workflow of the Northstar platform including considerations to building it. It emphasizes the steps to creating this platform and maintaining it to emphasize transparency, version control, and community-based quality assurance. Additionally, this workflow focuses on making Northstar a continuous improvement process rather than rigid task completion. The project vision serves as a guiding reference point that helps break down the broad idea into manageable tasks and checkpoints. By treating the platform as an evolving system rather than a finished product, it helps the platform align with agile and open-source workflows that prioritize adaptability and shared ownership.
 
-![Alt text]()
+![Alt text](https://github.com/rli59/Project-Management/blob/3c4be4dad640035568e3141d7113e78ede54089e/FINAL_PAPERS/technical%20workflow.drawio.png)
 
 The next diagram illustrates a workflow of the resume review feature in the perspective of users. It is a loop where job seekers initiate the processes by uploading their resume and defining their target career goals. This is then processed by automation tools that perform initial keyword parsing to match the request to the right reviewer. This bridge ensures that the industry mentor receives a request that is tailored to their expertise, allowing them to provide high-level, qualitative feedback that AI alone cannot offer. By integrating automated efficiency with human knowledge, the platform is able to streamline the connection between both users.
 
