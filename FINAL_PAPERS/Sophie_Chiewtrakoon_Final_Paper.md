@@ -15,11 +15,14 @@ This project is grounded in working open principles: openness by default, partic
 
 There are some existing online resources that use free, publicly available data from Chicago’s open data portal. I was able to find an interactive map and a tabular database (pictured below), respectively, but both were very limited in their usefulness because they only cover rental housing developments that are specifically sponsored by the City of Chicago programs to maintain affordability in local neighborhoods. 
 
+![Existing Housing List](sophie_chiewtrakoon_images/Screenshot_Chicago_Housing_List.png)
 
-(Left)Affordable Rental Housing Resource List. www.chicago.gov/city/en/depts/doh/provdrs/renters/svcs/affordable-rental-housing-resource-list.html.
+(Above)Affordable Rental Housing Resource List. www.chicago.gov/city/en/depts/doh/provdrs/renters/svcs/affordable-rental-housing-resource-list.html.
 
 
-(Right) Map of Affordable Rental Housing Developments | City of Chicago | Data Portal. data.cityofchicago.org/Community-Economic-Development/Map-of-Affordable-Rental-Housing-Developments/ku7f-f8gd.
+![Existing Map of Affordable Rental Housing Developments](sophie_chiewtrakoon_images/Screenshot_Chicago_Map_Points.png)
+
+(Above) Map of Affordable Rental Housing Developments | City of Chicago | Data Portal. data.cityofchicago.org/Community-Economic-Development/Map-of-Affordable-Rental-Housing-Developments/ku7f-f8gd.
 
 
 In other words, the data that the general public currently has access to does not include every City-assisted affordable housing unit that may be available for rent nor does it cover the (much more common) affordable housing units throughout the city that do not have City subsidies. Still, they are a good start for the project to work with to create our first build, but with the end goal of having as comprehensive data on all rental properties in the city, that then could later be filtered for by price, area, etc.  Chicago Rental Search is motivated by the belief that better data alone will not solve affordability challenges, but that transparency is a necessary precondition for more equitable decision-making by renters, landlords, and policymakers alike. Housing is a necessity, not a luxury, and Chicago Rental Search would empower users from all backgrounds and means to increase their own bargaining power. 
@@ -27,7 +30,7 @@ In other words, the data that the general public currently has access to does no
 --- 
 
 ### Proposed mockup of Chicago Rental Search’s logo, created by me using Canva Pro
-
+![Chicago Rental Search Logo](sophie_chiewtrakoon_images/Chicago-Rental-Search-Logo.png)
 
 ---
 ## Vision Statement
@@ -56,6 +59,8 @@ Testing will focus on usability, data accuracy, and performance under real-world
 
 ---
 ## Workflow Mapping
+
+![Workflow Map](sophie_chiewtrakoon_images/IS340-Workflow_Diagram.png)
 
 ---
 ## Project Scope
