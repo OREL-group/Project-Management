@@ -1,0 +1,125 @@
+# IS 340
+# Final Paper
+# Anish Gadre
+
+## Introduction and Context
+### Introduction
+Throughout this semester, our group worked on designing Eunoia, a
+mental-health-centered productivity app for students dealing with academic stress,
+burnout, and inconsistent routines. Instead of creating another productivity app that
+simply pushes users to be more efficient, we focused on building something that
+responds to how a student is actually feeling. Working on this project pushed us to look
+beyond features and screens and think more carefully about the emotional, behavioral,
+and systemic factors that shape productivity.
+
+### Context
+This problem space is both personal and widely shared. As a student, I have experienced
+days where motivation and focus change even when I genuinely want to stay productive.
+These challenges are not just about poor time management or lack of discipline, but are
+closely tied to mental health, workload pressure, and unrealistic expectations. Many
+existing productivity tools ignore this reality and assume users can operate at the same
+level every day, which can make falling behind feel even more discouraging. Eunoia
+started from the question of how a productivity tool could feel more supportive instead
+of adding pressure.
+
+### Paper Overview
+This paper reflects on the design and development of Eunoia through three key concepts
+from IS 340: Wicked Problems, Human-in-the-Loop systems, and Planning as an
+iterative design practice. Rather than focusing only on what we built, this paper looks at
+how these concepts shaped our decisions and guided our thinking throughout the
+project. Each concept helped us question our assumptions, navigate tradeoffs, and
+design a system that remains flexible and centered on the user.
+### Principles
+
+#### Principle 1: Wicked Problems
+Student mental health and productivity is an example of a wicked problem. Rather than
+having a single solution, this problem is shaped by overlapping factors such as academic
+pressure, personal expectations, mental health, social obligations, and changing day to
+day circumstances. These factors constantly shift, meaning that what works for one
+student or even for the same student on one day may not work the next. Understanding
+this complexity early on changed how we approached the design of Eunoia.
+At the beginning of the project, it was tempting to think about productivity in a more
+simplified way by designing a system that could help students optimize their time,
+complete more tasks, and establish a consistent routine. However, viewing the problem
+through the lens of wicked problems forced us to take a step back. Recognizing that
+productivity is not a one time fix allowed us to shift our focus from making the app
+optimal to making it adaptable. Applying this concept directly shaped several design
+decisions within Eunoia. Rather than assuming students would feel motivated or
+focused every day, we designed the app to adjust based on how they are feeling. Daily
+check -ins allow the system to recognize a student’s mental state before recommending a
+work session instead of forcing them into a rigid schedule. This approach reflects the
+idea that productivity challenges are not problems that need to be fixed, but ongoing
+experiences that require flexibility and understanding. Recognizing student productivity
+as a wicked problem also changed how we defined success within the project. Instead of
+focusing on how many tasks a user completed or how long they worked, we started
+paying more attention to sustainability and habit building. Small wins, shorter work
+sessions, and positive reinforcement became more meaningful than pushing students to
+maximize output. This shift helped make sure that the design supported students over
+time rather than adding to burnout. Overall, thinking about wicked problems reshaped
+how I approached this project. It reinforced the idea that some problems are not meant to
+be solved once, but supported through thoughtful, adaptable design that acknowledges
+complexity instead of trying to eliminate it.
+
+#### Principle 2: Human in the Loop
+Another key concept that shaped the design of Eunoia was the idea of a Human in the
+Loop system. Rather than allowing a system to make decisions entirely on its own, a
+Human in the Loop approach keeps students actively involved in the process. This
+concept was especially important for our project because productivity and mental health
+are deeply personal. Allowing a system to fully automate decisions in this space could
+easily feel controlling, impersonal, or even harmful. Thinking through this concept early
+on also changed how we approached control within the app. Instead of letting Eunoia
+automatically decide how long a student should work or when they should take breaks,
+we focused on designing a system that works alongside the user. The app offers
+recommendations based on daily check -ins, but students always have the ability to
+adjust, ignore, or override those suggestions. This balance helped the system feel
+supportive and flexible rather than controlling or restrictive. Through this process, I
+realized that effective design is not about maximizing automation or removing people
+from the process, but about maintaining a thoughtful balance between guidance and
+user choice. In the context of Eunoia, keeping users involved at every step helped create
+an experience that feels more personal and adaptable. This reinforced my belief that
+good design should support users while still giving them meaningful control.
+
+#### Principle 3: Planning as an Iterative Design Practice
+Planning shaped much of how Eunoia grew throughout the semester, but we never
+treated it as a concrete roadmap. From the start, we viewed planning as something
+flexible that would shift as we learned more and as the project evolved. This mindset
+kept us open to feedback, helped us pivot when ideas did not work as expected, and
+allowed us to keep moving forward without getting stuck or discouraged. Iteration
+became a core part of how we evaluated and strengthened the design. Each feedback
+checkpoint informed the next version of Eunoia and surfaced issues we could not see at
+the beginning. Rather than treating mistakes as setbacks, we saw them as signals that
+the design needed to change. This approach made the project stronger over time and
+reinforced the idea that good planning is not about predicting every outcome, but about
+responding thoughtfully as new information emerges. Working through this process
+also changed how I think about design more broadly. I realized that effective planning is
+not about ignoring missed signals or forcing ideas to work, but about learning how to
+adapt when those signals appear. Allowing the design to evolve in this way helped make
+sure that Eunoia more accurately reflected students’ real needs rather than an idealized
+version of how productivity should look.
+
+### Conclusion
+Viewing student productivity and mental health as a wicked problem reinforced the idea
+that there is no single solution that works for everyone. Instead, it pushed us to prioritize
+flexibility and long term support over one size fits all approaches. Applying a Human in
+the Loop framework further emphasized the importance of user agency, trust, and
+ethical responsibility, especially when working with emotionally sensitive experiences.
+Treating planning as an iterative practice allowed the project to evolve through feedback,
+testing, and reflection rather than being constrained by a rigid plan. Together, these
+principles shaped not only the final design of Eunoia, but also how I now think about
+design more broadly. This project helped me realize that effective design is less about
+control or perfection and more about responsiveness, care, and adaptability. Rather than
+trying to solve complex problems outright, meaningful design supports people as they
+navigate change. Moving forward, these concepts will continue to guide how I approach
+problem solving, system design, and user centered experiences.
+
+### Works Cited
+Headspace: Meditation & Sleep. Version 4.20.0. 2023. https://www.headspace.com/
+Human in the Loop. IBM. https://www.ibm.com/think/topics/human-in-the-loop
+Iterative Design. Interaction Design Foundation.
+https://www.interaction-design.org/literature/topics/design-iteration
+Kelley, Tom, and Jonathan Littman. The Ten Faces of Innovation: IDEO’ s Strategies for Beating
+the Devil’ s Advocate and Driving Creativity Throughout Your Organization.
+Currency/Doubleday, 2005.
+Pomofocus. 2024. https://pomofocus.io/
+Wicked Problems. William & Mary Online.
+https://online.mason.wm.edu/blog/what-makes-a-wicked-problem
