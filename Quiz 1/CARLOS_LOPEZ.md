@@ -1,7 +1,5 @@
 ## Carlos Lopez
 
-<p align = "center">
-  <img src="Freddy.jpg">
-</p>
+![](/images/Freddy.png)
 
 Image of Freddy Fazbear
