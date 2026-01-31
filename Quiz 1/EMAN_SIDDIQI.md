@@ -14,7 +14,7 @@ Here’s a list:
 
 ## 2) Image with caption (HTML)
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Maldives_island.jpg">
+  <img src="https://en.wikipedia.org/wiki/File:Bathala_(Maldives)_8.JPG">
   <figcaption><em>Figure 1:</em> My dream vacation spot, the Maldives.</figcaption>
 </figure>
 
