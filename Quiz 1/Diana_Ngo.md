@@ -3,7 +3,3 @@
 *Psyduck has a headache*
 
 [Psyduck Evolution Table](Psyduck_Evolutions.csv)
-Number, Name
-#0054, Psyduck
-#0055, Golduck
-#0056, Mega Psyduck
