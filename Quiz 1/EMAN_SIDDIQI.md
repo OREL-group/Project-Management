@@ -8,7 +8,7 @@ Here’s a list:
 - *Italic* emphasis
 - `code` for commands
 
-> Blockquotes are useful for notes or reflections.
+
 
 ---
 
