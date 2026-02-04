@@ -6,7 +6,7 @@ This sentence shows **bold**, *italic*, and `inline code`.
 ## Image
 ![Mini dachshund puppy](mini_dachshund.jpg)
 
-*Figure 1. Mini dachshund image stored in the Quiz 1 directory.*
+*Figure 1. Mini dachshund image stored in the Quiz 1 directory (local file).*
 
 ## CSV table content (embedded)
 ```csv
