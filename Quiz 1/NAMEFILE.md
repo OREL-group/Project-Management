@@ -4,6 +4,6 @@ Diana Ngo
 Conner Vogrich     
 Carlos Lopez   
 Eman Siddiqi      
-Heesun Chung
-Anna Wang
-Neng Wam
+Heesun Chung    
+Anna Wang    
+Neng Wam    
