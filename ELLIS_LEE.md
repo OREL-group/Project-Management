@@ -1,17 +1,17 @@
-# Quiz 1 
+# Quiz 1
 
 ## Styling examples
 This sentence shows **bold**, *italic*, and `inline code`.
 
 ## Image
-![Mini dachshund puppy](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dachshund_puppy.jpg)
+![Mini dachshund puppy](mini_dachshund.jpg)
 
-*Figure 1. Mini dachshund image embedded using an external URL.*
+*Figure 1. Mini dachshund image stored in the Quiz 1 directory.*
 
 ## CSV table content (embedded)
 ```csv
-feature,description,example
-breed,Dachshund (wiener dog),mini dachshund puppy
-image_source,External URL,Wikimedia Commons
-html_tag_used,figure + figcaption,caption under image
-file_type,CSV table format,.csv file in Quiz 1 directory
+item,detail,why_it_matters
+image,mini_dachshund.jpg,shows how local files render in GitHub Markdown
+alt_text,"Mini dachshund puppy",improves accessibility and clarity
+commit,saves changes to the repo,records your edits in version history
+pull_request,submits your work to the org repo,lets the instructor review and merge
