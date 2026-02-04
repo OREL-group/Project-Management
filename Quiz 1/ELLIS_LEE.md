@@ -15,3 +15,4 @@ image,mini_dachshund.jpg,shows how local files render in GitHub Markdown
 alt_text,"Mini dachshund puppy",improves accessibility and clarity
 commit,saves changes to the repo,records edits in version history
 pull_request,submits changes for review,lets the instructor merge work
+```
