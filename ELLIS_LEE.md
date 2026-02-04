@@ -4,7 +4,8 @@
 This sentence shows **bold**, *italic*, and `inline code`.
 
 ## Image
-![Mini dachshund puppy](https://github.com/OREL-group/Project-Management/raw/main/Quiz%201/mini_dachshund.jpg)
+![A464B26C-C591-40F6-9173-91511777E9D5](https://github.com/user-attachments/assets/4fdeb4c2-7bfe-4b48-88c7-7f57d5038ac0)
+
 
 
 
