@@ -1,6 +1,16 @@
 # Neng Wan
 
+## 1) Text
+- **Bold** I'm working on project Management
+
+## 2) Image
 <figure>
-  <img src="https://en.wikipedia.org/wiki/Cat#/media/File:Tabby_cat_with_visible_nictitating_membrane.jpg" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tabby_cat_with_visible_nictitating_membrane.jpg/960px-Tabby_cat_with_visible_nictitating_membrane.jpg" width="120">
   <figcaption>a cat on wikipedia</figcaption>
 </figure>
+
+## 3) Code
+
+```csv
+Information,Science
+Writing,Listening
