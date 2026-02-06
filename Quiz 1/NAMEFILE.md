@@ -8,4 +8,3 @@ Heesun Chung
 Anna Wang    
 Neng Wam   
 Jimmy Riedel
-Ruben Manriquez
