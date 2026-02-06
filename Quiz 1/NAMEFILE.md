@@ -7,5 +7,4 @@ Eman Siddiqi
 Heesun Chung    
 Anna Wang    
 Neng Wam   
-Ruben Manriquez
 Jimmy Riedel
