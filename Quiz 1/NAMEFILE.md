@@ -6,6 +6,6 @@ Carlos Lopez
 Eman Siddiqi      
 Heesun Chung    
 Anna Wang    
-Neng Wam    
-Jimmy Riedel
+Neng Wam   
 Ruben Manriquez
+Jimmy Riedel
