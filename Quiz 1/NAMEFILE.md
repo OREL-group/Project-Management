@@ -1,4 +1,5 @@
 ## Write your name on its own line:   
+Piotr Pajerski    
 Bradly Alicea   
 Diana Ngo     
 Conner Vogrich     
@@ -7,4 +8,4 @@ Eman Siddiqi
 Heesun Chung    
 Anna Wang    
 Neng Wam   
-Jimmy Riedel
+Jimmy Riedel    
