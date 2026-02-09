@@ -9,3 +9,4 @@ Heesun Chung
 Anna Wang    
 Neng Wam   
 Jimmy Riedel    
+Jaida Duson
