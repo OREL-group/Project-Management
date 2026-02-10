@@ -1,7 +1,7 @@
 ## Write your name on its own line:   
 Bradly Alicea  
 Iraj Kalia
-Diana Ngo     
+Diana Ngo
 Conner Vogrich     
 Carlos Lopez   
 Eman Siddiqi      
