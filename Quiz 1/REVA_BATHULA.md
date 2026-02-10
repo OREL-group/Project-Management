@@ -13,3 +13,8 @@ _Colosseum- Italy_
 _Eiffel Tower- Paris_
 
 
+```csv
+Country,Favorite Place
+India, Taj Mahal
+Italy, Colosseum
+Paris, France
