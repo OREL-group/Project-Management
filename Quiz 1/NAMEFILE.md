@@ -9,5 +9,6 @@ Heesun Chung
 Anna Wang    
 Neng Wam   
 Jimmy Riedel    
-Jaida Duson
-Lauren Marks
+Jaida Duson   
+Lauren Marks   
+Reva Bathula    
