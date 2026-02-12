@@ -11,7 +11,7 @@ Neng Wam
 Jimmy Riedel    
 Jaida Duson   
 Lauren Marks   
-Reva Bathula  
-Samantha Mean
+Reva Bathula
 Anna Barrientos   
-Daniel Lindarev
+Daniel Lindarev  
+Samantha Mean
