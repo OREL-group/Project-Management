@@ -12,3 +12,4 @@ Jimmy Riedel
 Jaida Duson   
 Lauren Marks   
 Reva Bathula    
+Anna Barrientos   
