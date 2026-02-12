@@ -13,3 +13,4 @@ Jaida Duson
 Lauren Marks   
 Reva Bathula    
 Anna Barrientos   
+Daniel Lindarev
