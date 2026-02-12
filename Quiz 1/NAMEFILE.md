@@ -14,3 +14,4 @@ Lauren Marks
 Reva Bathula    
 Anna Barrientos   
 Daniel Lindarev
+Samantha Mean
