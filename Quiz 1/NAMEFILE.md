@@ -10,8 +10,8 @@ Anna Wang
 Neng Wam   
 Jimmy Riedel    
 Jaida Duson   
-Lauren Marks   
-Reva Bathula
+Lauren Marks  
+Reva Bathula  
 Anna Barrientos   
 Daniel Lindarev  
 Samantha Mean
