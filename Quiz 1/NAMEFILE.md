@@ -1,6 +1,8 @@
 ## Write your name on its own line:   
+Bradly Alicea    
+Iraj Kalia      
 Piotr Pajerski    
-Bradly Alicea   
+Bradly Alicea    
 Diana Ngo     
 Conner Vogrich     
 Carlos Lopez   
@@ -16,6 +18,5 @@ Anna Barrientos
 Daniel Lindarev  
 Samantha Mean  
 Nolan Grindley       
-Ruben Manriquez
-
-Aadam Pinnow
+Ruben Manriquez    
+Aadam Pinnow     
