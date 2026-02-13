@@ -5,4 +5,4 @@
 * I can name all the countries of the world
 * I am currently learning Arabic
 
-<img width="50" height="50 src="uzi.jpg"><BR>
+<img src="uzi.jpg"><BR>
