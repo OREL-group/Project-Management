@@ -17,5 +17,4 @@ Daniel Lindarev
 Samantha Mean  
 Nolan Grindley       
 Ruben Manriquez
-
 Aadam Pinnow
