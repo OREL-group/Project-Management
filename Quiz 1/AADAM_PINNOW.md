@@ -5,4 +5,5 @@
 * I can name all the countries of the world
 * I am currently learning Arabic
 
-<img src="uzi.jpg"><BR>
+<img src="uzi.jpg" width="500"><BR>
+<i> A picture of my favorite artist, Lil Uzi Vert <i>
