@@ -2,7 +2,6 @@
 Bradly Alicea    
 Iraj Kalia      
 Piotr Pajerski    
-Bradly Alicea    
 Diana Ngo     
 Conner Vogrich     
 Carlos Lopez   
@@ -20,5 +19,5 @@ Samantha Mean
 Nolan Grindley       
 Ruben Manriquez    
 Aadam Pinnow     
-Armeen Sultan
-Huiwon An
+Armeen Sultan    
+Huiwon An    
