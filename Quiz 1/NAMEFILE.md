@@ -22,5 +22,5 @@ Aadam Pinnow
 Armeen Sultan    
 Huiwon An    
 Vanessa Borisova  
-Gauri Bhasin
+Gauri Bhasin  
 Janani Venkatachalam
