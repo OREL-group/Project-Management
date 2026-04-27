@@ -24,3 +24,5 @@ Huiwon An
 Vanessa Borisova  
 Gauri Bhasin
 Esther Valentin
+Gauri Bhasin  
+Janani Venkatachalam  
