@@ -1,5 +1,5 @@
 ## Quiz 2: Introduction to Issue Management
-To be completed in two weeks (for Fall 2024, November 13). 
+To be completed in two weeks (for Fall 2026, November 11). 
 
 You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-group/projects/23/views/1) within our organization. Please use the main repository and not your fork, as all issues should be on the same board. As an external collaborator, you should have access. If not, please [let me know](mailto:balicea@illinois.edu).
 
