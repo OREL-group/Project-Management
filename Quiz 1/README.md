@@ -1,7 +1,7 @@
 ## Quiz 1: Introduction to Github and Version Control
-__To be completed in one week (for Fall 2024, September 18).__ 
+__To be completed in two weeks (for Fall 2026, September 16).__ 
 
-__1)__ before the assignment is issued on September 11, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. Please [e-mail the instructor](mailto:balicea@illinois.edu) with your Github handle (URL of your account after the ".com/") in the body. Please check your e-mail (Main and Spam folders) for the invite and accept. If you cannot find the invite, contact me and I will resend.
+__1)__ I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. Please [e-mail the instructor](mailto:balicea@illinois.edu) with your Github handle (URL of your account after the ".com/") in the body. Please check your e-mail (Main and Spam folders) for the invite and accept. If you cannot find the invite, contact me and I will resend.
 
 __2)__ Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management). Once you do so, I should be able to see your fork.
 
