@@ -19,4 +19,4 @@ You might want to pet this cat but **_DO NOT PET IT_**.\
 This is a Black-Footed Cat and is given the title of:
 >**The Deadliest Feline on Earth**
 >
-not very safe to pet.
+**Not** very safe to pet.
