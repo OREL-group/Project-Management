@@ -30,6 +30,6 @@ I am a senior majoring in IS + DS with a _minor_ in CS. I am interested in data 
 ---
 
 ## Attention Check
- - [ ] Have you read this markdown file?
- - [ ] Do you know one of the programming languages I am proficient in?
- - [ ] Do you know one of my favorite foods?
+ - [X] Have you read this markdown file?
+ - [X] Do you know one of the programming languages I am proficient in?
+ - [X] Do you know one of my favorite foods?
