@@ -8,4 +8,5 @@ Livia Lin
 Bradly Alicea    
 Susanna Piquer Barrachina    
 Javier Martinez
-Jordan Nguyen      
+Jordan Nguyen
+Philip Cao
