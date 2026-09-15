@@ -10,6 +10,6 @@
 
 | Rank  | My Favorite Shows  | When I watched it |
 |-------|--------------------|-------------------|
-| 1     | Invicible             | 2026           |
+| 1     | Invincible             | 2026           |
 | 2     | The office            | 2023           |
 | 3     | Better Call Saul      | 2025           |   
