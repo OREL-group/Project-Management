@@ -14,7 +14,7 @@
 <br>
 
 <figure>
-  <img width="768" height="1024" alt="IMG-20231231-WA0004" src="https://github.com/user-attachments/assets/103fcab1-0a7f-4e70-a98f-f96193541548" />
+  <img width="384" height="512" alt="IMG-20231231-WA0004" src="https://github.com/user-attachments/assets/103fcab1-0a7f-4e70-a98f-f96193541548" />
   <br>
   <figcaption>This is **DanDan**. Her name means egg in Cantonese. She was adopted at the same time as Wongwong (it was a BOGO 50% off deal). </figcaption>
 </figure>
