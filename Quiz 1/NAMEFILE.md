@@ -8,5 +8,6 @@ Livia Lin
 Javier Martinez   
 Jordan Nguyen   
 Philip Cao   
+Christine Wong
 Tergel Myagmarsaikhan
 Kenneth Shelton
