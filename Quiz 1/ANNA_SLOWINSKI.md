@@ -5,7 +5,7 @@
 * I work on campus as an Orientation Leader in the Office of New Student and Family Experiences as well as at the iSchool
   as a Recruitment Ambassador
 
-## Yearly Goals:
+## Yearly Goals
 1. Run a half marathon
 2. Become a stronger mentor
 3. Prioritize sleep
