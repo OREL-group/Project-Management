@@ -15,7 +15,7 @@
 <figure>
   <img width="300" height="400" alt="IMG_2432" src="https://github.com/user-attachments/assets/6b0109b4-867e-42cb-80f1-46d27b38edd2" />
   <br>
-  <figcaption>This is my dog, Daisy, we got her on Election day in 2024!</figcaption>
+  <figcaption>This is my dog, Daisy. We got her on Election day in 2024!</figcaption>
 </figure>
 
 
