@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Hi! I'm Michelle, a senior studying Information Sciences on the HCI/UX pathway. At UIUC, I'm involved in a couple of organizations like Design Innovation, HackIllinois, Campus rec volleyball, and I'm also newly the president of the Brawl Stars Society on campus!!!
-
+Hi! I'm Michelle, a senior studying Information Sciences on the *HCI/UX pathway*. At UIUC, I'm involved in a couple of organizations like *Design Innovation*, *HackIllinois*, and *Campus Rec Volleyball*. I'm also newly the **President of the Brawl Stars Society** on campus!!!
 
 ### Some of My Interests
 
@@ -14,6 +13,8 @@ Hi! I'm Michelle, a senior studying Information Sciences on the HCI/UX pathway. 
 - Death Parade
 - Crunchy Biscoff cookie butter
 
+---
+
 ## My Favorite Games
 
 | Show | Genre |
@@ -23,5 +24,9 @@ Hi! I'm Michelle, a senior studying Information Sciences on the HCI/UX pathway. 
 | Penthouse | K-Drama |
 | The Disastrous Life of Saiki K. | Anime |
 | Bojack Horseman | Comedy |
+
+<img src="https://i.imgur.com/xAV2fUP.jpeg" alt="Me and my doppelganger" width="300">
+
+*Me and my doppelganger!*
 
 **Thanks for reading!**
