@@ -5,7 +5,8 @@ Hannah Li
 Elizabeth Abraham
 Morgan Cahill    
 Susanna Piquer Barrachina    
-Alexander Zhao      
+Alexander Zhao 
+Madelyn McNamara
 Livia Lin      
 Javier Martinez   
 Jordan Nguyen   
