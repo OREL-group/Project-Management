@@ -1,5 +1,7 @@
 ## Please list your name below
 
+Bradly Alicea  
+Michelle Yi
 Bradly Alicea
 Hannah Li
 Elizabeth Abraham
