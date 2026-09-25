@@ -22,6 +22,7 @@ Tergel Myagmarsaikhan
 Kenneth Shelton
 Anna Slowinski
 Emma Wolf
+Ananya Kavatekar
 Chiara Krishna-Reddy
 Jessica Zheng
 Jared Yung
