@@ -1,5 +1,7 @@
 ## Please list your name below
 
+Bradly Alicea  
+Michelle Yi
 Bradly Alicea
 Hannah Li
 Elizabeth Abraham
@@ -21,5 +23,7 @@ Kenneth Shelton
 Anna Slowinski
 Emma Wolf
 Helsing He
+Chiara Krishna-Reddy
+Jessica Zheng
 Jared Yung
 
